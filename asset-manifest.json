@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6e4a2ba.css",
-    "main.js": "/static/js/main.8deb8269.js",
-    "static/js/787.5f54a81b.chunk.js": "/static/js/787.5f54a81b.chunk.js",
-    "static/media/default-image.jpg": "/static/media/default-image.e3bc746e332389dd1031.jpg",
-    "index.html": "/index.html",
-    "main.d6e4a2ba.css.map": "/static/css/main.d6e4a2ba.css.map",
-    "main.8deb8269.js.map": "/static/js/main.8deb8269.js.map",
-    "787.5f54a81b.chunk.js.map": "/static/js/787.5f54a81b.chunk.js.map"
+    "main.css": "/benlenton.co.uk/static/css/main.d6e4a2ba.css",
+    "main.js": "/benlenton.co.uk/static/js/main.8e3554a1.js",
+    "static/js/787.5f54a81b.chunk.js": "/benlenton.co.uk/static/js/787.5f54a81b.chunk.js",
+    "static/media/default-image.jpg": "/benlenton.co.uk/static/media/default-image.e3bc746e332389dd1031.jpg",
+    "index.html": "/benlenton.co.uk/index.html",
+    "main.d6e4a2ba.css.map": "/benlenton.co.uk/static/css/main.d6e4a2ba.css.map",
+    "main.8e3554a1.js.map": "/benlenton.co.uk/static/js/main.8e3554a1.js.map",
+    "787.5f54a81b.chunk.js.map": "/benlenton.co.uk/static/js/787.5f54a81b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6e4a2ba.css",
-    "static/js/main.8deb8269.js"
+    "static/js/main.8e3554a1.js"
   ]
 }
